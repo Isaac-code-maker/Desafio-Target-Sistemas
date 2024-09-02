@@ -5,19 +5,19 @@ Utilizei Java para a resolução dos desafios que envolviam lógica de programa�
 
 ## Conteúdo  
 
-1. **FibonacciChecker.java**  
+1. **desafio1.java**  
    - Um programa que verifica se um número informado pertence à sequência de Fibonacci.  
 
-2. **LetterAChecker.java**  
+2. **desafio2.java**  
    - Um programa que verifica a existência da letra 'a' (maiúscula ou minúscula) em uma string e conta quantas vezes ela ocorre.  
 
-3. **Lógica de Soma**  
+3. **desaio3.java**  
    - Um trecho de código que calcula a soma de números inteiros até um índice específico.  
 
-4. **Sequências Lógicas**  
+4. **desafio4**  
    - Resolução de problemas de identificação de padrões em sequências numéricas.  
 
-5. **Desafio dos Interruptores**  
+5. **desafio5**  
    - Uma solução para descobrir qual interruptor controla qual lâmpada em um cenário específico.  
 
 ## Como Executar  
