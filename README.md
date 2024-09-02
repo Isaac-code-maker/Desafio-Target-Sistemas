@@ -27,4 +27,4 @@ Para executar os programas, siga os passos abaixo:
 1. Certifique-se de ter o [Java JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) instalado em sua máquina.  
 2. Clone este repositório:  
    ```bash  
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git  
+   git clone https://github.com/Isaac-code-maker/Desafio-Target-Sistemas
