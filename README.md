@@ -1,6 +1,7 @@
 # Projetos de Programação  
 
-Este repositório contém soluções para problemas de programação em Java, incluindo a sequência de Fibonacci, contagem de letras em uma string e um desafio de lógica com interruptores.  
+Este repositório contém soluções para problemas de programação, incluindo a sequência de Fibonacci, contagem de letras em uma string e um desafio de lógica com interruptores.  
+Utilizei Java para a resolução dos desafios que envolviam lógica de programação.
 
 ## Conteúdo  
 
